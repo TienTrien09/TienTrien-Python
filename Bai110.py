@@ -47,4 +47,4 @@ if __name__ == "__main__":
     # Cho phép người dùng nhập vào
     nhap = input("Nhập chuỗi cipher text cần khôi phục: ")
     ket_qua = giai_ma_chuoi(nhap)
-    print(f"Kết quả plain text: {ket_qua}")
+    print(f"Kết quả plain text: {ket_qua}")        
